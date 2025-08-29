@@ -1,0 +1,17 @@
+name: rapidresq
+description: RapidResQ PoC
+publish_to: "none"
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  google_maps_flutter: ^2.4.3
+  firebase_core: ^2.8.0
+  cloud_firestore: ^4.7.0
+  provider: ^6.0.5
+  geolocator: 14.0.2
+  http: ^1.1.2

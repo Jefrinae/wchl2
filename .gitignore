@@ -1,0 +1,24 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.json
+
+# Flutter / Android
+build/
+*.apk
+*.aab
+*.so
+*.bin
+.gradle/
+.idea/
+*.iml
+local.properties
+
+# iOS
+Pods/
+*.xcworkspace
+DerivedData/
