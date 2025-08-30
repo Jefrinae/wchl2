@@ -1,5 +1,5 @@
 //
-//  Generated file. Do not edit.
+//  Generated file. Do not edit!!
 //
 
 // clang-format off
@@ -9,7 +9,7 @@
 
 #include <flutter/plugin_registry.h>
 
-// Registers Flutter plugins.
+// Registers Flutter Plugins.
 void RegisterPlugins(flutter::PluginRegistry* registry);
 
 #endif  // GENERATED_PLUGIN_REGISTRANT_
